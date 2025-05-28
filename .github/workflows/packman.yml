@@ -2,11 +2,13 @@ name: Generate pacman animation and wakatime stats
 
 on:
   schedule: # execute every 12 hours
-    - cron: "0 */12 * * *" # fixed cron: run at 00:00 and 12:00
+    - cron: "0 */12 * * *"
   workflow_dispatch:
   push:
     branches:
       - main
+    paths-ignore:
+      - 'README.md'  # This prevents the infinite loop!
 
 jobs:
   generate:
@@ -37,4 +39,4 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_PAT }}
-
+          COMMIT_MESSAGE: "Updated with Dev Metrics"
