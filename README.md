@@ -150,15 +150,13 @@ const aryan = {
 
 ---
 
-## 🐍 Contribution Snake
+## 🎮 Pacman Game
 
 <div align="center">
   
-![Snake animation](https://raw.githubusercontent.com/Aryan-juneja/Aryan-juneja/output/github-contribution-grid-snake-dark.svg)
+![Pacman](https://raw.githubusercontent.com/Aryan-juneja/Aryan-juneja/output/pacman-contribution-graph.svg)
 
 </div>
-
----
 
 ## 📈 Coding Activity
 
