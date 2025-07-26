@@ -165,7 +165,7 @@ const aryan = {
 
 **🐱 My GitHub Data** 
 
-> 📦 ? Used in GitHub's Storage 
+> 📦 203.4 kB Used in GitHub's Storage 
  > 
 > 🏆 189 Contributions in the Year 2025
  > 
@@ -173,7 +173,7 @@ const aryan = {
  > 
 > 📜 45 Public Repositories 
  > 
-> 🔑 0 Private Repositories 
+> 🔑 7 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
@@ -231,7 +231,7 @@ EJS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Aryan-juneja/Aryan-juneja/main/assets/bar_graph.png)
 
 
- Last Updated on 26/07/2025 07:00:40 UTC
+ Last Updated on 26/07/2025 07:02:28 UTC
 <!--END_SECTION:waka-->
 
 ---
