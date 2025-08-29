@@ -167,6 +167,8 @@ const aryan = {
 
 > 📦 204.9 kB Used in GitHub's Storage 
  > 
+> 🏆 189 Contributions in the Year 2025
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 45 Public Repositories 
@@ -229,7 +231,7 @@ EJS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Aryan-juneja/Aryan-juneja/main/assets/bar_graph.png)
 
 
- Last Updated on 28/08/2025 01:16:25 UTC
+ Last Updated on 29/08/2025 01:16:33 UTC
 <!--END_SECTION:waka-->
 
 ---
