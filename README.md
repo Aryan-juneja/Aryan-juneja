@@ -159,11 +159,15 @@ const aryan = {
 ## 📈 Coding Activity
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-54%20hrs%2034%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 205.0 kB Used in GitHub's Storage 
+ > 
+> 🏆 189 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -227,7 +231,7 @@ EJS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Aryan-juneja/Aryan-juneja/main/assets/bar_graph.png)
 
 
- Last Updated on 30/08/2025 01:12:55 UTC
+ Last Updated on 31/08/2025 01:21:17 UTC
 <!--END_SECTION:waka-->
 
 ---
