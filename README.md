@@ -159,8 +159,6 @@ const aryan = {
 ## 📈 Coding Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-54%20hrs%2034%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 **🐱 My GitHub Data** 
@@ -175,45 +173,6 @@ const aryan = {
  > 
 > 🔑 7 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                111 commits         ████████░░░░░░░░░░░░░░░░░   32.17 % 
-🌆 Daytime                142 commits         ██████████░░░░░░░░░░░░░░░   41.16 % 
-🌃 Evening                84 commits          ██████░░░░░░░░░░░░░░░░░░░   24.35 % 
-🌙 Night                  8 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   30 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
-Tuesday                  42 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.17 % 
-Wednesday                56 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.23 % 
-Thursday                 47 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.62 % 
-Friday                   103 commits         ███████░░░░░░░░░░░░░░░░░░   29.86 % 
-Saturday                 20 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.80 % 
-Sunday                   47 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.62 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -231,7 +190,7 @@ EJS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Aryan-juneja/Aryan-juneja/main/assets/bar_graph.png)
 
 
- Last Updated on 16/09/2025 01:13:53 UTC
+ Last Updated on 17/09/2025 01:13:23 UTC
 <!--END_SECTION:waka-->
 
 ---
