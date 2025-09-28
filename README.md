@@ -159,13 +159,11 @@ const aryan = {
 ## 📈 Coding Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-54%20hrs%2034%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 206.2 kB Used in GitHub's Storage 
+> 📦 206.3 kB Used in GitHub's Storage 
  > 
 > 🏆 189 Contributions in the Year 2025
  > 
@@ -175,45 +173,6 @@ const aryan = {
  > 
 > 🔑 7 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                122 commits         █████████░░░░░░░░░░░░░░░░   34.27 % 
-🌆 Daytime                142 commits         ██████████░░░░░░░░░░░░░░░   39.89 % 
-🌃 Evening                84 commits          ██████░░░░░░░░░░░░░░░░░░░   23.60 % 
-🌙 Night                  8 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.25 % 
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   31 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.71 % 
-Tuesday                  43 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.08 % 
-Wednesday                58 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.29 % 
-Thursday                 49 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.76 % 
-Friday                   105 commits         ███████░░░░░░░░░░░░░░░░░░   29.49 % 
-Saturday                 22 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.18 % 
-Sunday                   48 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.48 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -231,7 +190,7 @@ EJS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Aryan-juneja/Aryan-juneja/main/assets/bar_graph.png)
 
 
- Last Updated on 27/09/2025 01:12:21 UTC
+ Last Updated on 28/09/2025 01:22:15 UTC
 <!--END_SECTION:waka-->
 
 ---
