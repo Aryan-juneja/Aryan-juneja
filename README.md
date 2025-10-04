@@ -159,7 +159,9 @@ const aryan = {
 ## 📈 Coding Activity
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-54%20hrs%2034%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
@@ -173,6 +175,45 @@ const aryan = {
  > 
 > 🔑 7 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                129 commits         █████████░░░░░░░░░░░░░░░░   35.54 % 
+🌆 Daytime                142 commits         ██████████░░░░░░░░░░░░░░░   39.12 % 
+🌃 Evening                84 commits          ██████░░░░░░░░░░░░░░░░░░░   23.14 % 
+🌙 Night                  8 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   32 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
+Tuesday                  44 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.12 % 
+Wednesday                59 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.25 % 
+Thursday                 50 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.77 % 
+Friday                   106 commits         ███████░░░░░░░░░░░░░░░░░░   29.20 % 
+Saturday                 23 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.34 % 
+Sunday                   49 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.50 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -190,7 +231,7 @@ EJS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Aryan-juneja/Aryan-juneja/main/assets/bar_graph.png)
 
 
- Last Updated on 03/10/2025 01:13:36 UTC
+ Last Updated on 04/10/2025 01:11:09 UTC
 <!--END_SECTION:waka-->
 
 ---
