@@ -165,7 +165,7 @@ const aryan = {
 
 **🐱 My GitHub Data** 
 
-> 📦 206.5 kB Used in GitHub's Storage 
+> 📦 206.6 kB Used in GitHub's Storage 
  > 
 > 🏆 189 Contributions in the Year 2025
  > 
@@ -231,7 +231,7 @@ EJS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Aryan-juneja/Aryan-juneja/main/assets/bar_graph.png)
 
 
- Last Updated on 04/10/2025 01:11:09 UTC
+ Last Updated on 05/10/2025 01:21:37 UTC
 <!--END_SECTION:waka-->
 
 ---
