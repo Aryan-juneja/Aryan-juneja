@@ -173,45 +173,6 @@ const aryan = {
  > 
 > 🔑 7 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                422 commits         ████████████████░░░░░░░░░   62.99 % 
-🌆 Daytime                156 commits         ██████░░░░░░░░░░░░░░░░░░░   23.28 % 
-🌃 Evening                84 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.54 % 
-🌙 Night                  8 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   74 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.04 % 
-Tuesday                  86 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.84 % 
-Wednesday                101 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.07 % 
-Thursday                 92 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.73 % 
-Friday                   148 commits         ██████░░░░░░░░░░░░░░░░░░░   22.09 % 
-Saturday                 76 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.34 % 
-Sunday                   93 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.88 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -229,7 +190,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Aryan-juneja/Aryan-juneja/main/assets/bar_graph.png)
 
 
- Last Updated on 24/07/2026 02:27:12 UTC
+ Last Updated on 25/07/2026 02:25:23 UTC
 <!--END_SECTION:waka-->
 
 ---
