@@ -159,7 +159,7 @@ const aryan = {
 ## 📈 Coding Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-54%20hrs%2051%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-54%20hrs%2047%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -178,21 +178,21 @@ const aryan = {
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                425 commits         ████████████████░░░░░░░░░   63.15 % 
-🌆 Daytime                156 commits         ██████░░░░░░░░░░░░░░░░░░░   23.18 % 
-🌃 Evening                84 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.48 % 
+🌞 Morning                426 commits         ████████████████░░░░░░░░░   63.20 % 
+🌆 Daytime                156 commits         ██████░░░░░░░░░░░░░░░░░░░   23.15 % 
+🌃 Evening                84 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.46 % 
 🌙 Night                  8 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   75 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.14 % 
-Tuesday                  86 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.78 % 
-Wednesday                101 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.01 % 
-Thursday                 92 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.67 % 
-Friday                   148 commits         █████░░░░░░░░░░░░░░░░░░░░   21.99 % 
-Saturday                 77 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.44 % 
-Sunday                   94 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.97 % 
+Monday                   75 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.13 % 
+Tuesday                  87 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.91 % 
+Wednesday                101 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.99 % 
+Thursday                 92 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.65 % 
+Friday                   148 commits         █████░░░░░░░░░░░░░░░░░░░░   21.96 % 
+Saturday                 77 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.42 % 
+Sunday                   94 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.95 % 
 ```
 
 
@@ -214,6 +214,12 @@ No Activity Tracked This Week
 No Activity Tracked This Week
 ```
 
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -231,7 +237,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Aryan-juneja/Aryan-juneja/main/assets/bar_graph.png)
 
 
- Last Updated on 27/07/2026 02:39:48 UTC
+ Last Updated on 28/07/2026 02:13:56 UTC
 <!--END_SECTION:waka-->
 
 ---
