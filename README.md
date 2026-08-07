@@ -159,8 +159,6 @@ const aryan = {
 ## 📈 Coding Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-54%20hrs%2047%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -175,51 +173,6 @@ const aryan = {
  > 
 > 🔑 7 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                435 commits         ████████████████░░░░░░░░░   63.69 % 
-🌆 Daytime                156 commits         ██████░░░░░░░░░░░░░░░░░░░   22.84 % 
-🌃 Evening                84 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.30 % 
-🌙 Night                  8 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   76 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.13 % 
-Tuesday                  88 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.88 % 
-Wednesday                103 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.08 % 
-Thursday                 94 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.76 % 
-Friday                   149 commits         █████░░░░░░░░░░░░░░░░░░░░   21.82 % 
-Saturday                 78 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.42 % 
-Sunday                   95 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.91 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-No AI Coding Activity Tracked This Week
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -237,7 +190,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Aryan-juneja/Aryan-juneja/main/assets/bar_graph.png)
 
 
- Last Updated on 06/08/2026 02:19:53 UTC
+ Last Updated on 07/08/2026 02:31:52 UTC
 <!--END_SECTION:waka-->
 
 ---
