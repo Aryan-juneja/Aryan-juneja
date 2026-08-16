@@ -165,7 +165,7 @@ const aryan = {
 
 **🐱 My GitHub Data** 
 
-> 📦 211.9 kB Used in GitHub's Storage 
+> 📦 212.0 kB Used in GitHub's Storage 
  > 
 > 🏆 16 Contributions in the Year 2026
  > 
@@ -178,21 +178,21 @@ const aryan = {
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                444 commits         ████████████████░░░░░░░░░   64.16 % 
-🌆 Daytime                156 commits         ██████░░░░░░░░░░░░░░░░░░░   22.54 % 
-🌃 Evening                84 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.14 % 
-🌙 Night                  8 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
+🌞 Morning                445 commits         ████████████████░░░░░░░░░   64.21 % 
+🌆 Daytime                156 commits         ██████░░░░░░░░░░░░░░░░░░░   22.51 % 
+🌃 Evening                84 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.12 % 
+🌙 Night                  8 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   77 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.13 % 
-Tuesday                  89 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.86 % 
-Wednesday                104 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.03 % 
-Thursday                 95 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.73 % 
-Friday                   151 commits         █████░░░░░░░░░░░░░░░░░░░░   21.82 % 
-Saturday                 80 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.56 % 
-Sunday                   96 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.87 % 
+Monday                   77 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+Tuesday                  89 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.84 % 
+Wednesday                104 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.01 % 
+Thursday                 95 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.71 % 
+Friday                   151 commits         █████░░░░░░░░░░░░░░░░░░░░   21.79 % 
+Saturday                 80 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.54 % 
+Sunday                   97 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.00 % 
 ```
 
 
@@ -237,7 +237,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Aryan-juneja/Aryan-juneja/main/assets/bar_graph.png)
 
 
- Last Updated on 15/08/2026 01:03:53 UTC
+ Last Updated on 16/08/2026 01:07:35 UTC
 <!--END_SECTION:waka-->
 
 ---
